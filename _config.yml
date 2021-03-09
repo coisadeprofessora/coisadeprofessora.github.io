@@ -53,8 +53,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-exclude:
-  - assets/
 
 # Show post excerpts
 show_excerpts: true
