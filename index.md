@@ -4,3 +4,6 @@
 
 layout: home
 ---
+![coisadeprofessora](/assets/images/capa.jpg)
+
+Blog de professora para professoras que precisam de ajuda com os aplicativos e ferramentas do Estado de São Paulo durante o ensino remoto.
