@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Como iniciar aula ao vivo no Centro de Mídias"
+title:  "Aula ao vivo no Centro de Mídias como começar"
 date:   2021-03-09
 categories: tutoriais cmsp
 description: tutorial de como iniciar uma aula ao vivo no aplicativo do centro de mídias
