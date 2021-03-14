@@ -14,4 +14,4 @@ Agora todas as séries/anos estão com as atividades disponíveis no mesmo aplic
 
 Nesse tutorial mostro o passo a passo de onde estão as tarefas on-line que os alunos precisam fazer no aplicativo do Centro de Mídias (CMSP)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ueVd74AN_9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# <iframe width="560" height="315" src="https://www.youtube.com/embed/ueVd74AN_9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> #
