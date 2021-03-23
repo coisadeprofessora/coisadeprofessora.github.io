@@ -154,4 +154,4 @@ Para encerrar a aula ao vivo clique no ícone ![icone inicio ao vivo azul](/asse
 
 <!-- # Para iniciar uma aula ao vivo no Centro de Mídias Web, acesse o tutorial. -->
 
-{::comment}
+
