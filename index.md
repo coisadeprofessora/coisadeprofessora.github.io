@@ -7,7 +7,7 @@ layout: home
 list_title: Posts
 ---
 {:refdef: style="text-align: center;"}
-![coisadeprofessora](/assets/images/capa.png)
+![coisadeprofessora](/assets/images/capa-fundo-azul.png)
 {: refdef}
 <figcaption style="text-align: center;">
 <figcaption>
