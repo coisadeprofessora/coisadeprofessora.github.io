@@ -56,5 +56,24 @@ plugins:
 exclude:
   - assets/README.md
 
+# this setting allows you to keep pages organized in the _pages folder
+include:
+  - _pages
+
+header_pages:
+  - _pages/aulas.md
+  - _pages/tutoriais.md
+  - _pages/sobre.md
+
 # Show post excerpts
 show_excerpts: true
+
+minima:
+  date_format: "%-d de %b de %Y"
+
+collections:
+  aulas:
+    output: true
+  tutoriais:
+    output: true
+

@@ -3,7 +3,7 @@ layout: post
 title:  "Repositório de vídeos do Centro de Mídias, como acessar"
 date:   2021-03-12
 categories: tutoriais cmsp
-description: turorial de como acessar o repositório de vídeos do centro de mídias
+excerpt: Perdeu a aula no Centro de Mídias ou quer rever alguma delas? Bora assistir o vídeo pra não perder nenhuma aula!
 ---
 
 Perdeu a aula no Centro de Mídias ou quer rever alguma delas?

@@ -3,7 +3,7 @@ layout: post
 title:  "Centro de Mídias web, iniciar aula ao vivo no computador"
 date:   2021-03-23
 categories: tutoriais cmsp
-description: tutorial de como iniciar uma aula ao vivo no aplicativo do centro de mídias web, no computador
+excerpt: Nós já explicamos como iniciar uma aula ao vivo no aplicativo para celular do Centro de Mídias. Agora vamos mostrar como iniciar uma aula ao vivo no Centro de Mídias web, na versão para computador.
 ---
 Nós já explicamos como iniciar uma aula ao vivo no aplicativo para celular do Centro de Mídias. Ainda não viu? Dá uma olhada [Aula ao vivo no Centro de Mídias como começar](https://coisadeprofessora.github.io/tutoriais/cmsp/2021/03/09/cmsp-aula-aovivo.html).
 

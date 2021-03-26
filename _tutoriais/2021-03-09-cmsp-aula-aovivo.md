@@ -3,9 +3,8 @@ layout: post
 title:  "Aula ao vivo no Centro de Mídias como começar"
 date:   2021-03-09
 categories: tutoriais cmsp
-description: tutorial de como iniciar uma aula ao vivo no aplicativo do centro de mídias
+excerpt: O Centro de Mídias tem algumas funções, como iniciar uma aula ao vivo através do aplicativo e compartilhamento de tela com os alunos durante a aula. Nesse tutorial vamos explicar como usar essas funções disponíveis.
 ---
-
 O Centro de Mídias tem algumas funções, como iniciar uma aula ao vivo através do aplicativo e compartilhamento de tela durante a aula ao vivo.
 
 Nesse tutorial vamos explicar como usar essas funções disponíveis.

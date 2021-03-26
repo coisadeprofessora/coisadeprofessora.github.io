@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{%- if page.title -%}
+  <h2 class="post-list-heading">{{ page.title }}</h2>
+{%- endif -%}
+
+{{ content }}
+
+<ul class="post-list">
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {% assign posts = site[page.tag] | sort: "date" | reverse %}
+  {%- for post in posts -%}
+    <li>{%- include post_list.html -%}</li>
+  {%- endfor -%}
+</ul>

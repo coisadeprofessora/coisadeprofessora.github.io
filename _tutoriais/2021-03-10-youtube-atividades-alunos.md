@@ -3,7 +3,7 @@ layout: post
 title:  "Como realizar as tarefas no Centro de Mídias"
 date:   2021-03-10
 categories: tutoriais cmsp
-description: tutorial de como acesar as tarefas no CMSP
+excerpt: Nesse tutorial mostro o passo a passo de onde estão as tarefas on-line que os alunos precisam fazer no aplicativo do Centro de Mídias (CMSP)
 ---
 
 Oi turma! Como estão?
