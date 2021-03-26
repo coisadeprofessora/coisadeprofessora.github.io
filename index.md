@@ -7,11 +7,11 @@ layout: home
 list_title: Posts
 ---
 {:refdef: style="text-align: center;"}
-![coisadeprofessora](/assets/images/capa.png)
+![coisadeprofessora](/assets/images/capa.jpg)
 {: refdef}
 <figcaption style="text-align: center;">
 <figcaption>
-<em> Imagem de <a href="https://pixabay.com/pt/users/haticeerol-14967706/" target="_blank">HaticeEROL</a> por <a href="https://pixabay.com" target="_blank">Pixabay</a> </em>
+<em> Imagem de <a href="https://pixabay.com/pt/users/alexandra_koch-621802/" target="_blank">Alexandra_Koch</a> por <a href="https://pixabay.com" target="_blank">Pixabay</a> </em>
 </figcaption>
 
 
