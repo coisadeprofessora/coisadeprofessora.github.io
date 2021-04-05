@@ -129,6 +129,8 @@ Clique na opção Avançar ela vai aparecer ao menos 3 vezes e por fim clique em
 
 O aplicativo está pronto pra ser usado, abaixo está a tela inicial dele.
 
+Clique no calendário encontre a reunião agendada que quer participar e clique em ingressar.
+
 <br>
 
 ![tela app teams](/assets/2021-03-29-teams-acesso-reuniao/teams-app-inicio.png)
