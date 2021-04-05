@@ -56,6 +56,13 @@ Uma janela abrirá com as informações da reunião, existem duas formas de aces
 
 <br>
 
+Caso a reunião já tenha começado o botão de Ingressar vai aparecer e você pode clicar direto, veja as imagens abaixo.
+
+<br>
+
+![tela reuniao teams](/assets/2021-03-29-teams-acesso-reuniao/reuniao-iniciada-ingressar2.png)
+
+
 Em seguida você escolhe se vai ativar o microfone e a câmera para entrar na reunião e clica em Ingressar Agora.
 
 <br>
